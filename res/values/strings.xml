@@ -11,4 +11,10 @@
 	<string name="task">Task</string>
 	<string name="execution">Execution</string>
 	
+	<string name="stopExecutionButton">Stop</string>
+	<string name="startExecutionButton">Start</string>
+	<string name="ltvDefautTxt">Choisir Tache</string>
+	<string name="editTaskButtonText">Edit</string>
+	<string name="eChrDefautTxt">Now</string>
+		
 </resources>
