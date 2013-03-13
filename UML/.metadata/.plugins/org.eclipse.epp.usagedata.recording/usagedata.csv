@@ -1,0 +1,91 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.mylyn.commons.net,3.4.1.v20100625-2100-e3x,"org.eclipse.mylyn.commons.net",1362920015924
+started,bundle,org.eclipse.mylyn.commons.ui,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.commons.ui",1362920015928
+started,bundle,org.eclipse.mylyn.context.core,3.4.1.v20100909-0100-e3x,"org.eclipse.mylyn.context.core",1362920015935
+started,bundle,org.eclipse.mylyn.context.ui,3.4.1.v20100909-0100-e3x,"org.eclipse.mylyn.context.ui",1362920015939
+started,bundle,org.eclipse.mylyn.monitor.ui,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.monitor.ui",1362920015950
+started,bundle,org.eclipse.mylyn.tasks.ui,3.4.2.v20100902-0100-e3x,"org.eclipse.mylyn.tasks.ui",1362920015973
+started,bundle,org.eclipse.mylyn.team.ui,3.4.2.v20100909-0100-e3x,"org.eclipse.mylyn.team.ui",1362920015976
+started,bundle,org.eclipse.team.core,3.5.100.R36x_v20100825-0800,"org.eclipse.team.core",1362920015996
+started,bundle,org.eclipse.team.cvs.core,3.3.300.I20100526-0800,"org.eclipse.team.cvs.core",1362920016000
+started,bundle,org.eclipse.team.cvs.ui,3.3.301.R36x_v20100825-0800,"org.eclipse.team.cvs.ui",1362920016006
+started,bundle,org.eclipse.team.ui,3.5.101.R36x_v20100825-0800,"org.eclipse.team.ui",1362920016024
+started,bundle,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui",1362920016033
+started,bundle,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console",1362920016045
+started,bundle,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.editors",1362920016049
+started,bundle,org.eclipse.ui.forms,3.5.2.r36_v20100702,"org.eclipse.ui.forms",1362920016060
+started,bundle,org.eclipse.ui.ide,3.6.1.M20100825-0800,"org.eclipse.ui.ide",1362920016068
+started,bundle,org.eclipse.ui.net,1.2.100.I20100505-1245,"org.eclipse.ui.net",1362920016078
+started,bundle,org.eclipse.ui.views,3.5.0.I20100527-0800,"org.eclipse.ui.views",1362920016083
+started,bundle,org.eclipse.ui.views.properties.tabbed,3.5.100.I20100509-0800,"org.eclipse.ui.views.properties.tabbed",1362920016085
+started,bundle,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"org.eclipse.ui.workbench",1362920016096
+started,bundle,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.workbench.texteditor",1362920016109
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1362920016118
+started,bundle,org.eclipse.update.core,3.2.402.R36x_v20100629,"org.eclipse.update.core",1362920016124
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1362920016154
+started,bundle,org.eclipse.egit.core,0.10.1,"org.eclipse.egit.core",1362920016164
+started,bundle,org.eclipse.egit.ui,0.10.1,"org.eclipse.egit.ui",1362920016182
+started,bundle,org.eclipse.jgit,0.10.1,"org.eclipse.jgit",1362920016183
+started,bundle,org.eclipse.eclipsemonkey,1.0.0.200706060947,"org.eclipse.eclipsemonkey",1362920016191
+started,bundle,org.eclipse.emf.transaction,1.4.0.v20100331-1738,"org.eclipse.emf.transaction",1362920016204
+started,bundle,org.eclipse.gmf.runtime.common.core,1.4.0.v20100423-2359,"org.eclipse.gmf.runtime.common.core",1362920016215
+started,bundle,org.eclipse.gmf.runtime.common.ui,1.4.0.v20100518-2230,"org.eclipse.gmf.runtime.common.ui",1362920016227
+started,bundle,org.eclipse.gmf.runtime.diagram.core,1.4.0.v20100331-2359,"org.eclipse.gmf.runtime.diagram.core",1362920016229
+started,bundle,org.eclipse.gmf.runtime.diagram.ui,1.4.1.v20100909-1300,"org.eclipse.gmf.runtime.diagram.ui",1362920016255
+started,bundle,org.eclipse.gmf.runtime.emf.type.core,1.4.0.v20100423-2359,"org.eclipse.gmf.runtime.emf.type.core",1362920016266
+started,bundle,org.eclipse.gmf.runtime.gef.ui,1.4.0.v20100430-1518,"org.eclipse.gmf.runtime.gef.ui",1362920016269
+started,bundle,org.eclipse.gmf.runtime.notation,1.4.1.v20100717-0059,"org.eclipse.gmf.runtime.notation",1362920016277
+started,bundle,org.eclipse.uml2.common,1.5.0.v201005031530,"org.eclipse.uml2.common",1362920016292
+started,bundle,org.eclipse.uml2.common.edit,1.5.0.v201005031530,"org.eclipse.uml2.common.edit",1362920016294
+started,bundle,org.eclipse.uml2.uml.edit,3.1.0.v201005031530,"org.eclipse.uml2.uml.edit",1362920016300
+started,bundle,org.topcased.facilities,2.6.1.201102071538,"org.topcased.facilities",1362920016315
+started,bundle,org.topcased.modeler,3.1.13.201102071538,"org.topcased.modeler",1362920016329
+started,bundle,org.topcased.modeler.di,3.0.1.201102071538,"org.topcased.modeler.di",1362920016329
+started,bundle,org.topcased.modeler.diagrams,2.5.1.201102071538,"org.topcased.modeler.diagrams",1362920016335
+started,bundle,org.topcased.modeler.efs,2.5.0.201102071538,"org.topcased.modeler.efs",1362920016340
+started,bundle,org.topcased.modeler.graphconf,2.5.1.201102071538,"org.topcased.modeler.graphconf",1362920016351
+started,bundle,org.topcased.modeler.uml,3.0.10.201102071539,"org.topcased.modeler.uml",1362920016359
+started,bundle,org.topcased.modeler.uml.activitydiagram,2.6.1.201102071539,"org.topcased.modeler.uml.activitydiagram",1362920016361
+started,bundle,org.topcased.modeler.uml.componentdiagram,3.0.2.201102071539,"org.topcased.modeler.uml.componentdiagram",1362920016374
+started,bundle,org.topcased.modeler.uml.compositestructuresdiagram,2.5.1.201102071539,"org.topcased.modeler.uml.compositestructuresdiagram",1362920016376
+started,bundle,org.topcased.modeler.uml.deploymentdiagram,2.5.1.201102071539,"org.topcased.modeler.uml.deploymentdiagram",1362920016378
+started,bundle,org.topcased.modeler.uml.sequencediagram,2.5.2.201102071539,"org.topcased.modeler.uml.sequencediagram",1362920016382
+started,bundle,org.topcased.modeler.uml.statemachinediagram,2.5.2.201102071539,"org.topcased.modeler.uml.statemachinediagram",1362920016386
+started,bundle,org.topcased.tabbedproperties,2.5.3.201102071538,"org.topcased.tabbedproperties",1362920016387
+started,bundle,org.topcased.validation.core,3.0.1.201102071538,"org.topcased.validation.core",1362920016387
+started,bundle,org.eclipse.papyrus.core,0.7.2.v201101191114,"org.eclipse.papyrus.core",1362920016405
+started,bundle,org.eclipse.papyrus.log,0.7.2.v201101191114,"org.eclipse.papyrus.log",1362920016411
+started,bundle,org.eclipse.papyrus.modelexplorer,0.7.2.v201101191114,"org.eclipse.papyrus.modelexplorer",1362920016414
+started,bundle,org.eclipse.papyrus.ui.perspectiveconfiguration,0.7.2.v201101191114,"org.eclipse.papyrus.ui.perspectiveconfiguration",1362920016423
+started,bundle,org.topcased.requirement,3.3.1.201102071538,"org.topcased.requirement",1362920016437
+started,bundle,org.topcased.requirement.core,3.3.2.201102071538,"org.topcased.requirement.core",1362920016439
+started,bundle,org.eclipse.epp.usagedata.gathering,1.3.1.R201102081640,"org.eclipse.epp.usagedata.gathering",1362920016447
+started,bundle,org.eclipse.epp.usagedata.recording,1.3.1.R201102081640,"org.eclipse.epp.usagedata.recording",1362920016449
+started,bundle,org.eclipse.pde.launching,3.6.0.v20100601,"org.eclipse.pde.launching",1362920016458
+started,bundle,org.eclipse.pde.ui,3.6.1.v20110210_r362,"org.eclipse.pde.ui",1362920016471
+started,bundle,org.eclipse.ui.views.log,1.0.100.v20110210_r362,"org.eclipse.ui.views.log",1362920016477
+started,bundle,org.eclipse.draw2d,3.6.2.v20110128-0100,"org.eclipse.draw2d",1362920016500
+started,bundle,org.eclipse.gef,3.6.2.v20110110-2020,"org.eclipse.gef",1362920016512
+started,bundle,org.eclipse.gmf.runtime.draw2d.ui,1.4.2.v20101217-0030,"org.eclipse.gmf.runtime.draw2d.ui",1362920016519
+started,bundle,org.eclipse.uml2.uml,3.1.2.v201010261927,"org.eclipse.uml2.uml",1362920016532
+os,sysinfo,,,"win32",1362920016534
+arch,sysinfo,,,"x86",1362920016534
+ws,sysinfo,,,"win32",1362920016534
+locale,sysinfo,,,"fr_FR",1362920016534
+processors,sysinfo,,,"4",1362920016534
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1362920016534
+java.runtime.version,sysinfo,,,"1.7.0_11-b21",1362920016534
+java.specification.name,sysinfo,,,"Java Platform API Specification",1362920016534
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1362920016534
+java.specification.version,sysinfo,,,"1.7",1362920016534
+java.vendor,sysinfo,,,"Oracle Corporation",1362920016534
+java.version,sysinfo,,,"1.7.0_11",1362920016534
+java.vm.info,sysinfo,,,"mixed mode, sharing",1362920016534
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1362920016535
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1362920016535
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1362920016535
+java.vm.specification.version,sysinfo,,,"1.7",1362920016535
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1362920016535
+java.vm.version,sysinfo,,,"23.6-b04",1362920016535
+started,bundle,org.eclipse.epp.usagedata.ui,1.3.1.R201102081640,"org.eclipse.epp.usagedata.ui",1362920017603
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1362920018331

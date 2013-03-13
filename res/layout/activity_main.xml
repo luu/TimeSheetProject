@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+	<ExpandableListView 
+	    android:id="@+id/executionListView"
+	    android:layout_height="wrap_content"
+	    android:layout_width="match_parent"
+	    android:orientation="vertical"
+	    ></ExpandableListView>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="0dip"
+        android:layout_weight="0.66"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/buttonADD"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@+string/textButtonADD" />
+
+        <Button
+            android:id="@+id/buttonNEW"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@+string/textButtonNEW" />
+
+        <Button
+            android:id="@+id/buttonDEL"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@+string/textButtonDEL" />
+
+        <Button
+            android:id="@+id/buttonHOME"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@+string/textButtonHOME" />
+    </LinearLayout>
+
+</LinearLayout>
