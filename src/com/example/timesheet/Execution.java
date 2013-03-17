@@ -6,11 +6,15 @@ import android.text.format.DateFormat;
 
 public class Execution {
 	protected int id;
+	protected int parentID;
 	protected Date dateStart;
 	protected Date dateEnd;
 	protected long duration;
 	protected String comments;
 	
+	public Execution(){
+		
+	}
 	public Execution(int id){
 	}
 
@@ -52,5 +56,8 @@ public class Execution {
 
 	public void setComments(String comments) {
 		this.comments = comments;
+	}
+	public int getParentID(){
+		return this.parentID;
 	}
 }
