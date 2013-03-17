@@ -40,6 +40,5 @@ public class ChronometerTask extends Activity implements OnClickListener {
 			break;
 		}
 			
-		
 	}
 }
